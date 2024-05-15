@@ -1,0 +1,7 @@
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\obj\Debug\entrada.csproj.AssemblyReference.cache
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\obj\Debug\entrada.csproj.CoreCompileInputs.cache
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\bin\Debug\entrada.exe.config
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\bin\Debug\entrada.exe
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\bin\Debug\entrada.pdb
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\obj\Debug\entrada.exe
+C:\Users\DEV2A-24\Documents\CÓGUIDOS\entrada\entrada\obj\Debug\entrada.pdb
